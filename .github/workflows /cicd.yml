@@ -1,4 +1,4 @@
-name: resource-pack
+name: pack
 on:
   push:
     branches: [ "main" ]
