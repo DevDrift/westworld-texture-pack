@@ -4,6 +4,6 @@
     "layer0": "item/stick"
   },
 	"overrides": [
-		{"predicate": {"custom_model_data": 1},"model":"block/custom/cross"}
+		{"predicate": {"custom_model_data": 778899},"model":"block/custom/cross"}
 	]
 }
