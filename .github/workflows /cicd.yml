@@ -8,16 +8,16 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-  steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
-    - name: Create zip directory
-      run: |
-        mkdir -p zipdir
-    - name: Pack release
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Create zip directory
+        run: |
+          mkdir -p zipdir
+      - name: Pack release
         run: |
           zip -r zipdir/data.zip assets pack.mcmeta pack.png
-    - name: Release
+      - name: Release
         uses: softprops/action-gh-release@v1
         with:
           tag_name: ${{ github.ref }}
