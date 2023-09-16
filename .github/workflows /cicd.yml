@@ -1,0 +1,26 @@
+name: resource-pack
+on:
+  push:
+    branches: [ main ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+  steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+    - name: Create zip directory
+      run: |
+        mkdir -p zipdir
+    - name: Pack release
+        run: |
+          zip -r zipdir/data.zip assets pack.mcmeta pack.png
+    - name: Release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: ${{ github.ref }}
+          release_name: Draft ${{ github.ref }}
+          draft: true
+          files: |
+            zipdir/*
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
