@@ -7,3 +7,7 @@
 /give @s minecraft:stick{CustomModelData:778900}
 /give @s minecraft:diamond{CustomModelData:778899}
 ```
+### Real money
+```shell
+/give @s minecraft:diamond{CustomModelData:778900}
+```
