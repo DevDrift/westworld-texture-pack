@@ -11,3 +11,15 @@
 ```shell
 /give @s minecraft:diamond{CustomModelData:778900}
 ```
+
+### Trophies
+```shell
+/give @s minecraft:diamond{CustomModelData:???}
+```
+- 778901 sheriff-star 
+- 778902 bull-skull 
+- 778903 bull-skull 
+- 778904 colt-single-action
+- 778905 gold-horseshoe
+- 778906 bottle-whiskey
+- 778907 guitar

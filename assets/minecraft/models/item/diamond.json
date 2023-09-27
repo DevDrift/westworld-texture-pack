@@ -5,6 +5,13 @@
     },
     "overrides": [
         {"predicate":{"custom_model_data":778899},"model":"deema_k:item/s_coin"},
-        {"predicate":{"custom_model_data":778900},"model":"block/custom/real-money"}
+        {"predicate":{"custom_model_data":778900},"model":"block/custom/real-money"},
+        {"predicate":{"custom_model_data":778901},"model":"block/custom/sheriff-star"},
+        {"predicate":{"custom_model_data":778902},"model":"block/custom/bull-skull"},
+        {"predicate":{"custom_model_data":778903},"model":"block/custom/fish-bones"},
+        {"predicate":{"custom_model_data":778904},"model":"block/custom/colt-single-action"},
+        {"predicate":{"custom_model_data":778905},"model":"block/custom/gold-horseshoe"},
+        {"predicate":{"custom_model_data":778906},"model":"block/custom/bottle-whiskey"},
+        {"predicate":{"custom_model_data":778907},"model":"block/custom/guitar"}
     ]
 }
