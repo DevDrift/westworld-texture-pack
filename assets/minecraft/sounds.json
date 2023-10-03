@@ -274,5 +274,42 @@
         "sounds": [
             "reloadshell"
         ]
+    },
+    "saloon": {
+        "category": "master",
+        "sounds": [
+            {
+                "name": "saloon/WesternAdvernturesDavid",
+                "stream": true
+            },
+            {
+                "name": "saloon/CountryFireside",
+                "stream": true
+            },
+            {
+                "name": "saloon/RidingSoloDavidFesliyan",
+                "stream": true
+            },
+            {
+                "name": "saloon/LoneRiderDavidFesliyan",
+                "stream": true
+            },
+            {
+                "name": "saloon/WesternCowboyRideDavidFesliyan",
+                "stream": true
+            },
+            {
+                "name": "saloon/OutlawBeginnings",
+                "stream": true
+            },
+            {
+                "name": "saloon/RollingHillsCristianoCorradetti",
+                "stream": true
+            },
+            {
+                "name": "saloon/OldWestGunslingersSteveOxen",
+                "stream": true
+            }
+        ]
     }
 }
