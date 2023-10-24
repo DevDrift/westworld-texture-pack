@@ -1,0 +1,32 @@
+{
+  "quest.hi": {
+    "category": "master",
+    "replace": false,
+    "sounds": [
+      {
+        "stream": true,
+        "name": "quests/riverhill/jakewood/hi"
+      }
+    ]
+  },
+  "quest.goodbye": {
+    "category": "master",
+    "replace": false,
+    "sounds": [
+      {
+        "stream": true,
+        "name": "quests/riverhill/jakewood/goodbye"
+      }
+    ]
+  },
+  "quest.info": {
+    "category": "master",
+    "replace": false,
+    "sounds": [
+      {
+        "stream": true,
+        "name": "quests/riverhill/jakewood/info-quest"
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "quest.info": {
+    "category": "master",
+    "replace": false,
+    "sounds": [
+      {
+        "stream": true,
+        "name": "quests/riverhill/bob/info-quest"
+      }
+    ]
+  },
+  "quest.start": {
+    "category": "master",
+    "replace": false,
+    "sounds": [
+      {
+        "stream": true,
+        "name": "quests/riverhill/bob/quest-start"
+      }
+    ]
+  },
+  "quest.reputation": {
+    "category": "master",
+    "replace": false,
+    "sounds": [
+      {
+        "stream": true,
+        "name": "quests/riverhill/bob/reputation"
+      }
+    ]
+  },
+  "quest.reputation.no": {
+    "category": "master",
+    "replace": false,
+    "sounds": [
+      {
+        "stream": true,
+        "name": "quests/riverhill/bob/reputation-no"
+      }
+    ]
+  },
+  "goodby": {
+    "category": "master",
+    "replace": false,
+    "sounds": [
+      {
+        "stream": true,
+        "name": "quests/riverhill/bob/good-by"
+      }
+    ]
+  }
+}
