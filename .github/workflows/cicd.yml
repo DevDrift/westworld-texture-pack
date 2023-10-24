@@ -17,6 +17,12 @@ jobs:
       - name: Pack release
         run: |
           zip -r zipdir/data.zip assets pack.mcmeta pack.png
+      - name: Generate checksum
+        uses: jmgilman/actions-generate-checksum@v1
+        with:
+          method: sha1
+          patterns: |
+            zipdir/*.zip
       - name: Release
         uses: softprops/action-gh-release@v1
         with:
@@ -24,6 +30,7 @@ jobs:
           release_name: Release
           draft: false
           files: |
+            checksum.txt
             zipdir/*
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
