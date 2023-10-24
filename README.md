@@ -37,4 +37,5 @@
 
 ```shell
 /playsound minecraft:saloon player @p 408 72 -114 1 1 0
+/playsound npc.voice.man.bye player @s ~ ~ ~
 ```
