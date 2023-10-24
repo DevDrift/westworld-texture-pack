@@ -12,6 +12,11 @@
         {"predicate":{"custom_model_data":778904},"model":"block/custom/colt-single-action"},
         {"predicate":{"custom_model_data":778905},"model":"block/custom/gold-horseshoe"},
         {"predicate":{"custom_model_data":778906},"model":"block/custom/bottle-whiskey"},
-        {"predicate":{"custom_model_data":778907},"model":"block/custom/guitar"}
+        {"predicate":{"custom_model_data":778907},"model":"block/custom/guitar"},
+        {"predicate":{"custom_model_data":778908},"model":"block/custom/gold-inca-knife"},
+        {"predicate":{"custom_model_data":778909},"model":"block/custom/inca-lama-figurine"},
+        {"predicate":{"custom_model_data":778910},"model":"block/custom/golden-hands-incas"},
+        {"predicate":{"custom_model_data":778911},"model":"block/custom/inca-gold-medallion"},
+        {"predicate":{"custom_model_data":778912},"model":"block/custom/inca-golden-cat"}
     ]
 }

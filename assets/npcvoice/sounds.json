@@ -1,0 +1,42 @@
+{
+  "npc.voice.man.hi": {
+    "category": "master",
+    "replace": false,
+    "sounds": [
+      {
+        "stream": true,
+        "name": "npcvoice/Man_RU_Hi"
+      }
+    ]
+  },
+  "npc.voice.man.bye": {
+    "category": "master",
+    "replace": false,
+    "sounds": [
+      {
+        "stream": true,
+        "name": "npcvoice/Man_RU_GoodBye"
+      }
+    ]
+  },
+  "npc.voice.woman.hi": {
+    "category": "master",
+    "replace": false,
+    "sounds": [
+      {
+        "stream": true,
+        "name": "npcvoice/Woman_RU_Hi"
+      }
+    ]
+  },
+  "npc.voice.woman.bye": {
+    "category": "master",
+    "replace": false,
+    "sounds": [
+      {
+        "stream": true,
+        "name": "npcvoice/Woman_RU_GoodBye"
+      }
+    ]
+  }
+}
