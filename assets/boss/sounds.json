@@ -1,0 +1,82 @@
+{
+  "boss.are.you.kidding": {
+    "category": "master",
+    "replace": false,
+    "sounds": [
+      {
+        "stream": true,
+        "name": "boss/ru-are-you-kidding"
+      }
+    ]
+  },
+  "boss.i.will.break.your.armor": {
+    "category": "master",
+    "replace": false,
+    "sounds": [
+      {
+        "stream": true,
+        "name": "boss/ru-I-will-break-your-armor"
+      }
+    ]
+  },
+  "boss.leave.if.you.want.to.live": {
+    "category": "master",
+    "replace": false,
+    "sounds": [
+      {
+        "stream": true,
+        "name": "boss/ru-leave-if-you-want-to-live"
+      }
+    ]
+  },
+  "boss.my.faithful.servants.arise": {
+    "category": "master",
+    "replace": false,
+    "sounds": [
+      {
+        "stream": true,
+        "name": "boss/ru-my-faithful-servants-arise"
+      }
+    ]
+  },
+  "boss.my.strength.is.growing": {
+    "category": "master",
+    "replace": false,
+    "sounds": [
+      {
+        "stream": true,
+        "name": "boss/ru-my-strength-is-growing"
+      }
+    ]
+  },
+  "boss.too.weak": {
+    "category": "master",
+    "replace": false,
+    "sounds": [
+      {
+        "stream": true,
+        "name": "boss/ru-too-weak"
+      }
+    ]
+  },
+  "boss.you.in.deep.trouble": {
+    "category": "master",
+    "replace": false,
+    "sounds": [
+      {
+        "stream": true,
+        "name": "boss/ru-you-in-deep-trouble"
+      }
+    ]
+  },
+  "boss.you.think.you.can.beat.me": {
+    "category": "master",
+    "replace": false,
+    "sounds": [
+      {
+        "stream": true,
+        "name": "boss/ru-you-think-you-can-beat-me"
+      }
+    ]
+  }
+}
