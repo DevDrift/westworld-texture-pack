@@ -1,5 +1,5 @@
 {
-  "boss.are.you.kidding": {
+  "are.you.kidding": {
     "category": "master",
     "replace": false,
     "sounds": [
@@ -9,7 +9,7 @@
       }
     ]
   },
-  "boss.i.will.break.your.armor": {
+  "i.will.break.your.armor": {
     "category": "master",
     "replace": false,
     "sounds": [
@@ -19,7 +19,7 @@
       }
     ]
   },
-  "boss.leave.if.you.want.to.live": {
+  "leave.if.you.want.to.live": {
     "category": "master",
     "replace": false,
     "sounds": [
@@ -29,7 +29,7 @@
       }
     ]
   },
-  "boss.my.faithful.servants.arise": {
+  "my.faithful.servants.arise": {
     "category": "master",
     "replace": false,
     "sounds": [
@@ -39,7 +39,7 @@
       }
     ]
   },
-  "boss.my.strength.is.growing": {
+  "my.strength.is.growing": {
     "category": "master",
     "replace": false,
     "sounds": [
@@ -49,7 +49,7 @@
       }
     ]
   },
-  "boss.too.weak": {
+  "too.weak": {
     "category": "master",
     "replace": false,
     "sounds": [
@@ -59,7 +59,7 @@
       }
     ]
   },
-  "boss.you.in.deep.trouble": {
+  "you.in.deep.trouble": {
     "category": "master",
     "replace": false,
     "sounds": [
@@ -69,7 +69,7 @@
       }
     ]
   },
-  "boss.you.think.you.can.beat.me": {
+  "you.think.you.can.beat.me": {
     "category": "master",
     "replace": false,
     "sounds": [
