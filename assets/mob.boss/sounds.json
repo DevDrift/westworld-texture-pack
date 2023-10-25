@@ -1,81 +1,81 @@
 {
-  "are.you.kidding": {
+  "boss.kidding": {
     "category": "master",
     "replace": false,
     "sounds": [
       {
         "stream": true,
-        "name": "boss/ru-are-you-kidding"
+        "name": "quests/boss/ru-are-you-kidding"
       }
     ]
   },
-  "i.will.break.your.armor": {
+  "boss.leave": {
     "category": "master",
     "replace": false,
     "sounds": [
       {
         "stream": true,
-        "name": "boss/ru-I-will-break-your-armor"
+        "name": "quests/boss/ru-leave-if-you-want-to-live"
       }
     ]
   },
-  "leave.if.you.want.to.live": {
+  "boss.servants.arise": {
     "category": "master",
     "replace": false,
     "sounds": [
       {
         "stream": true,
-        "name": "boss/ru-leave-if-you-want-to-live"
+        "name": "quests/boss/ru-my-faithful-servants-arise"
       }
     ]
   },
-  "my.faithful.servants.arise": {
+  "boss.strength.growing": {
     "category": "master",
     "replace": false,
     "sounds": [
       {
         "stream": true,
-        "name": "boss/ru-my-faithful-servants-arise"
+        "name": "quests/boss/ru-my-strength-is-growing"
       }
     ]
   },
-  "my.strength.is.growing": {
+  "boss.too.weak": {
     "category": "master",
     "replace": false,
     "sounds": [
       {
         "stream": true,
-        "name": "boss/ru-my-strength-is-growing"
+        "name": "quests/boss/ru-too-weak"
       }
     ]
   },
-  "too.weak": {
+  "boss.break.armor": {
     "category": "master",
     "replace": false,
     "sounds": [
       {
         "stream": true,
-        "name": "boss/ru-too-weak"
+        "name": "quests/boss/ru-will-break-your-armor"
       }
     ]
   },
-  "you.in.deep.trouble": {
+  "boss.deep.trouble": {
     "category": "master",
     "replace": false,
     "sounds": [
       {
         "stream": true,
-        "name": "boss/ru-you-in-deep-trouble"
+        "name": "quests/boss/ru-you-in-deep-trouble"
       }
     ]
   },
-  "you.think.you.can.beat.me": {
+  "boss.think.you.can.beat.me": {
     "category": "master",
     "replace": false,
     "sounds": [
       {
         "stream": true,
-        "name": "boss/ru-you-think-you-can-beat-me"
+        "name": "quests/boss/ru-you-think-you-can-beat-me"
       }
     ]
   }

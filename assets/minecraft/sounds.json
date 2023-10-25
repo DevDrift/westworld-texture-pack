@@ -279,35 +279,35 @@
         "category": "master",
         "sounds": [
             {
-                "name": "saloon/WesternAdvernturesDavid",
+                "name": "quests/saloon/western-adverntures-david",
                 "stream": true
             },
             {
-                "name": "saloon/CountryFireside",
+                "name": "quests/saloon/country-fireside",
                 "stream": true
             },
             {
-                "name": "saloon/RidingSoloDavidFesliyan",
+                "name": "quests/saloon/riding-solo-david-fesliyan",
                 "stream": true
             },
             {
-                "name": "saloon/LoneRiderDavidFesliyan",
+                "name": "quests/saloon/lone-rider-david-fesliyan",
                 "stream": true
             },
             {
-                "name": "saloon/WesternCowboyRideDavidFesliyan",
+                "name": "quests/saloon/western-cowboy-ride-davidfesliyan",
                 "stream": true
             },
             {
-                "name": "saloon/OutlawBeginnings",
+                "name": "quests/saloon/outlaw-beginnings",
                 "stream": true
             },
             {
-                "name": "saloon/RollingHillsCristianoCorradetti",
+                "name": "quests/saloon/rolling-hills-cristiano-corradetti",
                 "stream": true
             },
             {
-                "name": "saloon/OldWestGunslingersSteveOxen",
+                "name": "quests/saloon/old-west-gunslingers-steve-oxen",
                 "stream": true
             }
         ]
